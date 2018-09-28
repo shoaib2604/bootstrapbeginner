@@ -1,0 +1,68 @@
+.bgimg {
+    background-image:url('../images/add.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height:900px ;
+
+
+    }
+.bgimga{
+    background-color: #6c757d;
+
+    background-size:100% 100% ;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+
+
+  }
+
+
+
+.headerset{
+    padding-top:180px;
+    box-sizing: border-box;
+
+}
+.headerset h3{
+    font-size: 50px;
+
+}
+.headerset h1{
+    font-size: 60px;
+    padding-right:30px;
+}
+
+.navbar-nav li .dropdown-menu{
+    background-color: #c69500;
+}
+.service{
+    height: 700px;
+
+}
+.service h1{
+    font-weight: bold;
+}
+.service .chat {
+
+    background-color: #c69500;
+    border-radius: 50px;
+
+}
+@media(max-width:500px){
+    .headerset h3{
+        font-size: 20px;
+        padding-right:20px;
+
+    }
+    .headerset h1 {
+        font-size: 15px;
+        padding-left: 30px;
+    }
+    .mycard{
+
+
+    }
+
+}
